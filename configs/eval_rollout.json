@@ -1,0 +1,9 @@
+{
+  "robot": {"max_relative_target": 5.0},
+  "strategy": {"type": "base"},
+  "task": "Pick up the cube and place it into the tray.",
+  "fps": 30,
+  "duration": 30,
+  "device": "mps",
+  "play_sounds": false
+}
